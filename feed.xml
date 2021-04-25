@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>так собі освіта</title>
+    <link href="https://taksobiosvita.github.io/feed.xml" rel="self" />
+    <link href="https://taksobiosvita.github.io" />
+    <updated>2021-04-25T17:49:45+03:00</updated>
+    <author>
+        <name>так собі вчитель</name>
+    </author>
+    <id>https://taksobiosvita.github.io</id>
+
+    <entry>
+        <title>Hello, world!</title>
+        <author>
+            <name>так собі вчитель</name>
+        </author>
+        <link href="https://taksobiosvita.github.io/hello-world.html"/>
+        <id>https://taksobiosvita.github.io/hello-world.html</id>
+
+        <updated>2021-04-25T17:49:45+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <figure class="post__image" ><img loading="lazy" src="https://taksobiosvita.github.io/media/posts/1/hello-world-1333103_960_720.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-xs.jpg 300w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-sm.jpg 480w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-md.jpg 768w"  alt="hello, world!" width="960" height="640">
+<figcaption >зображення: wnantes, pixabay.com</figcaption>
+</figure>
+<p>Тут буде текст.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image" ><img loading="lazy" src="https://taksobiosvita.github.io/media/posts/1/hello-world-1333103_960_720.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-xs.jpg 300w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-sm.jpg 480w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-md.jpg 768w"  alt="hello, world!" width="960" height="640">
+<figcaption >зображення: wnantes, pixabay.com</figcaption>
+</figure>
+<p>Тут буде текст.</p>
+
+<p>Тут також буде текст.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

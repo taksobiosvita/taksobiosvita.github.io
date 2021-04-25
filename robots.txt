@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://taksobiosvita.github.io/sitemap.xml

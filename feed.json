@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "так собі освіта",
+    "description": "",
+    "home_page_url": "https://taksobiosvita.github.io",
+    "feed_url": "https://taksobiosvita.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "так собі вчитель"
+    },
+    "items": [
+        {
+            "id": "https://taksobiosvita.github.io/hello-world.html",
+            "url": "https://taksobiosvita.github.io/hello-world.html",
+            "title": "Hello, world!",
+            "summary": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://taksobiosvita.github.io/media/posts/1/hello-world-1333103_960_720.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-xs.jpg 300w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-sm.jpg 480w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-md.jpg 768w\"  alt=\"hello, world!\" width=\"960\" height=\"640\">\n<figcaption >зображення: wnantes, pixabay.com</figcaption>\n</figure>\n<p>Тут буде текст.</p>\n",
+            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://taksobiosvita.github.io/media/posts/1/hello-world-1333103_960_720.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-xs.jpg 300w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-sm.jpg 480w ,https://taksobiosvita.github.io/media/posts/1/responsive/hello-world-1333103_960_720-md.jpg 768w\"  alt=\"hello, world!\" width=\"960\" height=\"640\">\n<figcaption >зображення: wnantes, pixabay.com</figcaption>\n</figure>\n<p>Тут буде текст.</p>\n\n<p>Тут також буде текст.</p>",
+            "author": {
+                "name": "так собі вчитель"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-25T17:35:21+03:00",
+            "date_modified": "2021-04-25T17:49:45+03:00"
+        }
+    ]
+}
